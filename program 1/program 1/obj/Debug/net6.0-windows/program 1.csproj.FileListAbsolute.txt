@@ -1,0 +1,17 @@
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.csproj.AssemblyReference.cache
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.csproj.GenerateResource.cache
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.AssemblyInfoInputs.cache
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.AssemblyInfo.cs
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\bin\Debug\net6.0-windows\program 1.exe
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\bin\Debug\net6.0-windows\program 1.deps.json
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\bin\Debug\net6.0-windows\program 1.runtimeconfig.json
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\bin\Debug\net6.0-windows\program 1.dll
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\bin\Debug\net6.0-windows\program 1.pdb
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program_1.Form1.resources
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.dll
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\refint\program 1.dll
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.pdb
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\program 1.genruntimeconfig.cache
+C:\Users\mustafa\Documents\GitHub\project-1\program 1\program 1\obj\Debug\net6.0-windows\ref\program 1.dll
